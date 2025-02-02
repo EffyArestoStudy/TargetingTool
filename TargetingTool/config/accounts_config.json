@@ -1,0 +1,12 @@
+{
+    "accounts": {
+        "account1": {
+            "apps": [
+                "C:\\Users\\marsh\\AppData\\Local\\Programs\\Opera GX\\opera.exe"
+            ],
+            "urls": [
+                "https://google.com"
+            ]
+        }
+    }
+}
